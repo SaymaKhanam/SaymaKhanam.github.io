@@ -15,11 +15,11 @@ setClock()
 
 
 //Ramadhan
-var ramadhan = new Date("04/14/2021");  
-var time_diff = ramadhan.getTime() - Date.now();  
+//var ramadhan = new Date("04/14/2021");  
+//var time_diff = ramadhan.getTime() - Date.now();  
 
-var time_dt = new Date(time_diff);   
+//var time_dt = new Date(time_diff);   
 
 
-document.getElementById('ramadhan').innerHTML = time_dt.getDate().toString();
+//document.getElementById('ramadhan').innerHTML = time_dt.getDate().toString();
   
